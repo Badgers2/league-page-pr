@@ -1,90 +1,17 @@
 /*   STEP 1   */
 export const leagueID = "1180193390955372544"; // your league ID
-export const leagueName = "phillis league"; // your league name
+export const leagueName = "Upstate Fantasy Football League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Sure! Here's a homepage draft for the **Upstate Fantasy Football League**, combining a strong, competitive tone with a fun and welcoming atmosphere. You can adjust the level of formality or features depending on whether this is for a website, league app, or private group page.
-
----
-
+  <p>
 ## 🏈 Upstate Fantasy Football League
 
 **Welcome to the Official Home of the Upstate Fantasy Football League (UFFL)**
 Where the trash talk is fierce, the rivalries are legendary, and every Sunday is war.
-
----
-
-### 🔥 2025 Season: It's Game Time
-
-The draft board is heating up, strategies are locked in, and bragging rights are on the line. Whether you're a grizzled vet or a bold newcomer, only one can rise as champion.
-
-> 🏆 **Reigning Champion:** \[Insert Name]
-> 📅 **Draft Day:** \[Insert Date & Time]
-> 💬 **Live Chat & Banter:** Join on Discord/Slack/GroupMe
-> 📝 **League Rules & Scoring:** \[Link or Tab]
-
----
-
-### 📊 League Standings
-
-Track weekly rankings, player stats, and matchup results in real-time.
-
-> \[Insert dynamic leaderboard or link to standings]
-
----
-
-### 🧠 Power Rankings & Weekly Recaps
-
-Check back every Tuesday for league power rankings, matchup breakdowns, and weekly MVP shoutouts. Think you got snubbed? Prove it on the field.
-
-> 📰 \[View This Week's Recap]
-
----
-
-### 💥 Rivalry of the Week
-
-This week’s matchup spotlight:
-**\[Team Name]** vs. **\[Team Name]**
-Two teams. One bitter feud. Who’s walking away with the W?
-
-> 🎙️ \[Vote on the winner]
-> 🔁 \[Relive classic matchups]
-
----
-
-### 🎯 Hall of Fame & Past Champions
-
-Greatness is earned, not given. See who’s etched in UFFL history.
-
-> 🏅 \[League Hall of Fame]
-> 📚 \[Past Seasons & Records]
-
----
-
-### 🚨 League News & Updates
-
-> * Trade rumors swirling? 🔁
-> * Injuries affecting the waiver wire? 🚑
-> * Commish announcements? 📢
->   \[See All Updates]
-
----
-
-### 👑 Are You Ready to Rule the Upstate?
-
-This isn’t just fantasy. This is **Upstate Fantasy Football** — where legends are born every Sunday.
-
-> 🔓 \[Log In to Your Team]
-> 📝 \[Edit Lineup]
-> 📥 \[Join Waitlist / Apply to Next Season]
-
----
-
-Let me know if you'd like this tailored for a specific platform (e.g., ESPN, Sleeper, Yahoo), include commissioner contact info, or adjust tone (more serious, funny, etc.).
 </p>
   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
